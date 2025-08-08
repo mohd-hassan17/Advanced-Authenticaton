@@ -1,2 +1,3 @@
 # FullStack Advance Authentication with admin panel
-<p></p>
+<p>MERN</p>
+<p>Next.js</p>
