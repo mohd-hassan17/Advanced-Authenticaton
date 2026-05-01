@@ -1,4 +1,4 @@
-# 🔐 Advanced Authentication System
+# 🔐 Advanced Authentication System using MERN
 
 A modern and secure **Authentication & Authorization System** built with scalable architecture and best practices. This project includes advanced features like **JWT Authentication**, **Forgot Password via Email**, **Email Verification**, **Role-Based Access Control**, and **Admin Dashboard Access**.
 
